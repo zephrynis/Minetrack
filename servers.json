@@ -1,12 +1,42 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Axen",
+		"ip": "play.axenmc.net",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "PvP",
+		"ip": "pvp.minekeep.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Splat",
+		"ip": "splat.minekeep.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Tag",
+		"ip": "tag.minekeep.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Mysterious",
+		"ip": "mysterious.minekeep.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Rogue",
+		"ip": "rogue.minekeep.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Particles",
+		"ip": "particles.minekeep.gg",
+		"type": "PC"
+	},
+	{
+		"name": "BlockParty",
+		"ip": "blockparty.minekeep.gg",
 		"type": "PC"
 	}
 ]
